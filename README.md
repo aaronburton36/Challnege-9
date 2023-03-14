@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Professional README Generator
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -53,7 +52,3 @@ npm test
 ## Questions
 
 If you have any questions, please feel free to contact me via email at [aaronburton36@gmail.com](mailto:aaronburton36@gmail.com). You can also find more of my work on [GitHub](https://github.com/aaronburton36/).
-=======
-# Professional README Generator 
-
->>>>>>> f0ab88ed6e04dad7c59b2898d7d4e3c58e296306
